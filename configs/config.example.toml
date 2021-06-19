@@ -1,0 +1,10 @@
+[version]
+Ver = "1.0"
+
+[Postgres]
+Host = "127.0.0.1"
+Port = 5432
+User = "user name"
+Password = "user password"
+Dbname = "db name"
+SSLMode = "disable"
